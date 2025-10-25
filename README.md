@@ -1,1 +1,13 @@
 # F.
+
+{
+  "mcpServers": {
+    "@microsoft/clarity-mcp-server": {
+      "command": "npx",
+      "args": [
+        "@microsoft/clarity-mcp-server",
+        "--clarity_api_token=your-api-token-here"
+      ]
+    }
+  }
+}
